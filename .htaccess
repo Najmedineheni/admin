@@ -1,1 +1,5 @@
 
+AuthType Basic
+AuthName "14218594"
+require valid-user
+AuthUserFile /var/www/vhosts/HOST/httpdocs/.htpasswd
