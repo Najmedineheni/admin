@@ -2,4 +2,4 @@
 AuthType Basic
 AuthName "protection password"
 require valid-user
-AuthUserFile C:\wamp64\www\ .htpasswd
+AuthUserFile /Project/ .htpasswd
